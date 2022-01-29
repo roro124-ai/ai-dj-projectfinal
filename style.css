@@ -1,0 +1,25 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+#note{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+.song_name{
+    font-size: 21px;
+    width: 140px;
+    margin: 40px;
+}
+
+canvas{
+    background-color: black;
+    border-radius: 10px;
+    border-style: groove;
+    margin-top: 150px;
+}
